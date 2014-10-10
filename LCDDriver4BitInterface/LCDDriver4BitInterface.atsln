@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "LCDDriver4BitInterface", "LCDDriver4BitInterface\LCDDriver4BitInterface.cppproj", "{21B32A4A-299B-4506-9BBF-872ACB823838}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21B32A4A-299B-4506-9BBF-872ACB823838}.Debug|AVR.ActiveCfg = Debug|AVR
+		{21B32A4A-299B-4506-9BBF-872ACB823838}.Debug|AVR.Build.0 = Debug|AVR
+		{21B32A4A-299B-4506-9BBF-872ACB823838}.Release|AVR.ActiveCfg = Release|AVR
+		{21B32A4A-299B-4506-9BBF-872ACB823838}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
